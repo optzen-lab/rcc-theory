@@ -57,6 +57,21 @@ trace the evolution from *semantic return* to *resonant closure*.
 
 ---
 
+## 📄 RCC Theory v2.0 — Draft for Review (PDF)
+
+A draft version of the full RCC Theory manuscript is available here:
+
+➡️ **[RCC_Theory_v2.0_EN (Draft for Review, 2025-11-19)](./paper/RCC_Theory_v2.0_EN(Draft%20for%20Review,%202025-11-19).pdf)**  
+*Updated: November 19, 2025*
+
+This document provides the complete theoretical framework, including:
+- the tri-axial cognitive model (Lexical–Semantic–Conceptual),
+- resonance dynamics and interference patterns,
+- closure mechanisms and stability analysis,
+- and the empirical basis connecting ORT → PRT → RCC.
+
+---
+
 ## 📚 Document Structure  
 
 | File | Description |
