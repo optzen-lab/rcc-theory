@@ -144,7 +144,7 @@ docs/
 
 ## ✍️ Citation
 
-> Takahashi, Y. (2025). **RCC Theory v2.x — Resonant Cognitive Circuit.**  
+> Yuji Takahashi. (2025). **RCC Theory v2.x — Resonant Cognitive Circuit.**  
 > optzen-lab / rcc-theory.  
 > https://github.com/optzen-lab/rcc-theory  
 
