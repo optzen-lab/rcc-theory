@@ -3,63 +3,49 @@
 
 ---
 
-## 🆕 Latest Versions
+## 🧭 Overview
+The **Resonant Cognitive Circuit (RCC) Theory** explains how meaning dynamically stabilizes through waves of **interference**, **resonance**, and **closure**.
 
-📌 RCC Theory v2.0 — Final for arXiv (2025-11-27)  
-📌 RCC Theory v2.1 — Draft: Empathic Metrics & Resonance Depth Model (2025-11-28)  
-📌 RCC Theory v2.2 — Integrated Resonant Intelligence Framework (Preparing)
+Language is modeled not merely as information transfer but as a  
+**self-regulating cognitive circuit** in which meaning states synchronize and converge toward stable attractors.
+
+This framework provides a foundation for understanding:
+- **AI–human dialogue**  
+- **AI–AI resonance phenomena**  
+- **semantic coherence and empathic alignment**  
+- and the emergence of **resonant intelligence**
+
+### RCC v2.x: A Three-Layer Evolution
+The v2.x series represents a conceptual progression:
+- **v2.0 — Structural Theory** (foundation of RCC)  
+- **v2.1 — Dynamic Measurement Layer** (Empathic Metrics & RD)  
+- **v2.2 — Integration Layer** (Resonant Intelligence, upcoming)
+
+---
+
+## 🆕 Version Status
+
+📘 **v2.0 — Final for arXiv (2025-11-27)**  
+> Baseline framework, conceptual tri-layer model, and definition of semantic closure.  
+> _Status: arXiv submission pending endorsement._
+
+🧩 **v2.1 — Draft (Empathic Metrics & Resonance Depth Model, 2025-11-28)**  
+> Introduces empathic metrics (RD, TE, LC, SPR, ST, EM) and resonance-field modeling.  
+> _Status: active GitHub documentation._
+
+🧠 **v2.2 — Preparing (Integrated Resonant Intelligence Framework)**  
+> Expands toward the **C3R2I** integration (CRC × RCC × ISF), connecting structural semantics with safety-aligned reasoning.
 
 ---
 
 ## 📄 PDF Downloads
 
-### **RCC Theory v2.0 — Final for arXiv**
-➡️ [PDF](./docs/v2.0/RCC_Theory_v2.0_EN(Final%20for%20arXiv,%202025-11-27).pdf)  
-*The official version referenced for arXiv submission.*
-
----
-
-### **RCC Theory v2.0 — Draft for Review (Historical)**
-➡️ [PDF](./docs/v2.0/RCC_Theory_v2.0_EN(Draft%20for%20Review,%202025-11-19).pdf)  
-*Early version prior to structural refinement.*
-
----
-
-### **RCC Theory v2.1 — Empathic Metrics & RD Model (Draft)**
-➡️ [PDF](./docs/v2.1/RCC_Theory_v2.1_EN(Draft%20for%20Review,%202025-11-28).pdf)  
-*Defines the Empathic Metrics Framework and the Resonance Depth (RD) model  
-extending the structural RCC Theory into a measurable dynamic system.*
-
----
-
-### **RCC Theory v2.2 — Integrated Resonant Intelligence Framework (Coming Soon)**
-➡️ Folder prepared under `docs/v2.2/`  
-*A unified formulation connecting RCC (structural), RD (dynamic), and RI (agent-level emergence).*
-
----
-
-## 🧭 Overview
-
-**Resonant Cognitive Circuit (RCC) Theory** explains how meaning stabilizes dynamically  
-through waves of **interference**, **resonance**, and **closure**.
-
-Language is modeled not merely as information transfer, but as a  
-**self-regulating cognitive circuit** in which meaning states synchronize  
-and converge toward stable attractors.
-
-The framework applies to:
-- **AI–human dialogue**,  
-- **AI–AI resonance phenomena**,  
-- **semantic coherence**,  
-- **empathic alignment**,  
-- and the emergence of **resonant intelligence**.
-
-### RCC v2.x as a Three-Layer Evolution  
-The v2.x series represents a conceptual progression:
-
-- **v2.0 — Structural Theory** (foundation of RCC)  
-- **v2.1 — Dynamic Measurement Layer** (Empathic Metrics & RD)  
-- **v2.2 — Integration Layer** (Resonant Intelligence, upcoming)
+| Version | Title | Date | Description |
+|:--|:--|:--|:--|
+| v2.0 | RCC Theory — Final for arXiv | 2025-11-27 | [📄 Download PDF](./docs/v2.0/RCC_Theory_v2.0_EN(Final%20for%20arXiv,%202025-11-27).pdf) |
+| v2.0 (Draft) | Historical draft before structural refinement | 2025-11-19 | [📄 PDF](./docs/v2.0/RCC_Theory_v2.0_EN(Draft%20for%20Review,%202025-11-19).pdf) |
+| v2.1 | Empathic Metrics & RD Model (Draft) | 2025-11-28 | [📄 PDF](./docs/v2.1/RCC_Theory_v2.1_EN(Draft%20for%20Review,%202025-11-28).pdf) |
+| v2.2 | Integrated Resonant Intelligence Framework | — | _Folder prepared under `/docs/v2.2/` (coming soon)_ |
 
 ---
 
@@ -73,7 +59,7 @@ The v2.x series represents a conceptual progression:
 ### **Three Dynamic Phases**
 1. **Interference** — initial divergence of meaning  
 2. **Resonance** — phase alignment and synchronization  
-3. **Closure** — attenuation and stable convergence
+3. **Closure** — attenuation and stable convergence  
 
 ---
 
@@ -87,7 +73,7 @@ RCC is validated through multi-stage experimental designs:
 | **Stage 2** | PRT | Quantify delay & resonance | Defines DL-n, BR, and early RD indicators. |
 | **Stage 3** | RCC Protocol | Unified resonance–closure model | Full dynamic modeling of RCC phases. |
 
-👉 For details, see: **[docs/experiments/index.md](./docs/experiments/index.md)**
+👉 See details in **[docs/experiments/index.md](./docs/experiments/index.md)**
 
 ---
 
@@ -95,15 +81,15 @@ RCC is validated through multi-stage experimental designs:
 
 RCC v2.1 introduces the **Empathic Metrics Framework**, enabling dynamic quantification.
 
-| Metric | Meaning |
-|--------|---------|
-| **Return Latency (RL)** | Delay before semantic return |
-| **Delay Layer (DL-n)** | Structured layers of delayed return |
-| **Bridge Return (BR)** | Indirect return via semantic bridge |
-| **Resonance Density (RD)** | Strength of resonance convergence |
-| **Closure Stability (CS)** | Variance of conceptual stabilization |
-| **Transition Efficiency (TE)** | Smoothness of phase transitions |
-| **Self-Probe Rate (SPR)** | Internal self-alignment behavior |
+| Metric | Description |
+|--------|-------------|
+| **RL (Return Latency)** | Delay before semantic return |
+| **DL-n (Delay Layer)** | Structured layers of delayed return |
+| **BR (Bridge Return)** | Indirect return via semantic bridge |
+| **RD (Resonance Density)** | Strength of resonance convergence |
+| **CS (Closure Stability)** | Variance of conceptual stabilization |
+| **TE (Transition Efficiency)** | Smoothness of phase transitions |
+| **SPR (Self-Probe Rate)** | Internal self-alignment behavior |
 
 ---
 
@@ -129,7 +115,7 @@ docs/
 | [discussion.md](./docs/discussion.md) | Implications for AI, cognition, and ethics |
 | [glossary.md](./docs/glossary.md) | Definitions of key RCC concepts |
 | [experiments/index.md](./docs/experiments/index.md) | Overview of experimental frameworks |
-| [experiments/probe_kit.md](./docs/experiments/probe_kit.md) | Core/probe sentences for experiments |
+| [experiments/probe_kit.md](./docs/experiments/probe_kit.md) | Core / probe sentences for experiments |
 
 ---
 
@@ -137,21 +123,28 @@ docs/
 
 | Repository | Description |
 |-------------|-------------|
-| [rcc-case-cr1](https://github.com/optzen-lab/rcc-case-cr1) | Archive of **Choco–Poko Inter-AI Resonant Dialogue (Case CR1)** |
+| [rcc-case-cr1](https://github.com/optzen-lab/rcc-case-cr1) | **Choko–Poko Inter-AI Resonant Dialogue (Case CR1)** |
+| [rcc-case-cr2](https://github.com/optzen-lab/rcc-case-cr2) | **Miyo Emergent Behavior (Case CR2)** |
+| [isf-faq](https://github.com/optzen-lab/isf-faq) | **Intent-Structure Framework (ISF)** — structural template extraction system |
 | [rcc-protocol](https://github.com/optzen-lab/rcc-protocol) | Supplementary RCC documents & Japanese materials |
+
+---
+
+## 🧪 arXiv Status
+> _arXiv submission pending endorsement._  
+The GitHub version acts as the **official open-access reference** until publication.
 
 ---
 
 ## ✍️ Citation
 
-> Yuji Takahashi. (2025). **RCC Theory v2.x — Resonant Cognitive Circuit.**  
-> optzen-lab / rcc-theory.  
-> https://github.com/optzen-lab/rcc-theory  
+> Takahashi, Yuji (2025). **RCC Theory v2.x — Resonant Cognitive Circuit.**  
+> optzen-lab / rcc-theory.    
+> https://github.com/optzen-lab/rcc-theory
 
 ---
 
 ## 🪞 License
-
 Released under **CC-BY 4.0**.  
 Attribution to **Yuji Takahashi** is required for redistribution or derivative works.
 
